@@ -1,0 +1,2 @@
+bot_demo:i2c_device_ros:laser_filter_test:mpu6050_driver:nav:ros_arduino_bridge/ros_arduino_bridge:ros_arduino_bridge/ros_arduino_firmware:ros_arduino_bridge/ros_arduino_msgs:ros_arduino_bridge/ros_arduino_python:ros_astra_camera:rplidar_ros
+-G Ninja -DCATKIN_DEVEL_PREFIX=/home/sudo_car/catkin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/sudo_car/catkin_ws/install_isolated

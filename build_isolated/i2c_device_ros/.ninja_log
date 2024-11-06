@@ -1,0 +1,9 @@
+# ninja log v5
+0	973	1729157208	CMakeFiles/i2c_device_ros.dir/src/i2c_device.cpp.o	b99eacd9587cfbda
+974	1095	1729157208	/home/sudo_car/catkin_ws/devel_isolated/i2c_device_ros/lib/libi2c_device_ros.so	2fd9fa0206e877c3
+1	43	0	CMakeFiles/install.util	179fb12ea9aafd35
+1	41	0	CMakeFiles/install.util	179fb12ea9aafd35
+1	43	0	CMakeFiles/install.util	179fb12ea9aafd35
+1	44	0	CMakeFiles/install.util	179fb12ea9aafd35
+1	67	0	CMakeFiles/install.util	179fb12ea9aafd35
+3	57	0	CMakeFiles/install.util	179fb12ea9aafd35

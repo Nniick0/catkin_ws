@@ -1,0 +1,16 @@
+/home/sudo_car/catkin_ws/install_isolated/_setup_util.py
+/home/sudo_car/catkin_ws/install_isolated/env.sh
+/home/sudo_car/catkin_ws/install_isolated/setup.bash
+/home/sudo_car/catkin_ws/install_isolated/local_setup.bash
+/home/sudo_car/catkin_ws/install_isolated/setup.sh
+/home/sudo_car/catkin_ws/install_isolated/local_setup.sh
+/home/sudo_car/catkin_ws/install_isolated/setup.zsh
+/home/sudo_car/catkin_ws/install_isolated/local_setup.zsh
+/home/sudo_car/catkin_ws/install_isolated/.rosinstall
+/home/sudo_car/catkin_ws/install_isolated/lib/pkgconfig/ros_arduino_python.pc
+/home/sudo_car/catkin_ws/install_isolated/share/ros_arduino_python/cmake/ros_arduino_pythonConfig.cmake
+/home/sudo_car/catkin_ws/install_isolated/share/ros_arduino_python/cmake/ros_arduino_pythonConfig-version.cmake
+/home/sudo_car/catkin_ws/install_isolated/share/ros_arduino_python/package.xml
+/home/sudo_car/catkin_ws/install_isolated/share/ros_arduino_python/config/arduino_params.yaml
+/home/sudo_car/catkin_ws/install_isolated/share/ros_arduino_python/launch/arduino.launch
+/home/sudo_car/catkin_ws/install_isolated/share/ros_arduino_python/nodes/arduino_node.py

@@ -1,0 +1,8 @@
+prefix=/home/sudo_car/catkin_ws/install_isolated
+
+Name: mpu6050_driver
+Description: Description of mpu6050_driver
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp sensor_msgs i2c_device_ros

@@ -1,0 +1,13 @@
+/home/sudo_car/catkin_ws/install_isolated/_setup_util.py
+/home/sudo_car/catkin_ws/install_isolated/env.sh
+/home/sudo_car/catkin_ws/install_isolated/setup.bash
+/home/sudo_car/catkin_ws/install_isolated/local_setup.bash
+/home/sudo_car/catkin_ws/install_isolated/setup.sh
+/home/sudo_car/catkin_ws/install_isolated/local_setup.sh
+/home/sudo_car/catkin_ws/install_isolated/setup.zsh
+/home/sudo_car/catkin_ws/install_isolated/local_setup.zsh
+/home/sudo_car/catkin_ws/install_isolated/.rosinstall
+/home/sudo_car/catkin_ws/install_isolated/lib/pkgconfig/bot_demo.pc
+/home/sudo_car/catkin_ws/install_isolated/share/bot_demo/cmake/bot_demoConfig.cmake
+/home/sudo_car/catkin_ws/install_isolated/share/bot_demo/cmake/bot_demoConfig-version.cmake
+/home/sudo_car/catkin_ws/install_isolated/share/bot_demo/package.xml

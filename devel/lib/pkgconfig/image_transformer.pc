@@ -1,0 +1,8 @@
+prefix=/home/sudo_car/catkin_ws/devel
+
+Name: image_transformer
+Description: Description of image_transformer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

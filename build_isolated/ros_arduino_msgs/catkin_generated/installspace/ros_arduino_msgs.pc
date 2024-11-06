@@ -1,0 +1,8 @@
+prefix=/home/sudo_car/catkin_ws/install_isolated
+
+Name: ros_arduino_msgs
+Description: Description of ros_arduino_msgs
+Version: 0.2.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs

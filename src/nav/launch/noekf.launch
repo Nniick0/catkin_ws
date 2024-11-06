@@ -1,0 +1,17 @@
+<launch>
+
+    <include file="$(find laser_filter_test)/box_filter.launch"/>
+
+    <!--雷達-->
+    <include file="$(find rplidar_ros)/launch/rplidar.launch"/>
+
+    <!--深度相機 -->
+    <!-- <include file="$(find astra_camera)/launch/astra_pro.launch"/> -->
+
+    <!--imu-->
+    <include file="$(find mpu6050_driver)/launch/mpu6050_driver_with_filter.launch"/>
+
+    <!--底盤-->
+    <include file="$(find ros_arduino_python)/launch/arduino.launch"/>
+    
+</launch>

@@ -1,0 +1,17 @@
+<launch>
+  <node pkg="pointcloud_to_laserscan" type="pointcloud_to_laserscan_node" name="pointcloud_to_laserscan" output="screen">
+    <param name="target_frame" value="base_footprint"/>  <!-- 設定目標框架 -->
+    <param name="transform_tolerance" value="0.01"/>
+    <param name="min_height" value="0.1"/>  <!-- 過濾高度以避免地板的影響 -->
+    <param name="max_height" value="1.5"/>  <!-- 過濾過高的物體 -->
+    <param name="angle_min" value="-1.57"/>  <!-- 最小角度（-90度） -->
+    <param name="angle_max" value="1.57"/>  <!-- 最大角度（90度） -->
+    <param name="range_min" value="0.1"/>  <!-- 雷射的最小範圍 -->
+    <param name="range_max" value="5.0"/>  <!-- 雷射的最大範圍 -->
+    <param name="scan_time" value="0.1"/>
+    <param name="use_inf" value="true"/>
+    <param name="inf_epsilon" value="1.0"/>
+    <remap from="cloud_in" to="/camera/depth/points"/>  <!-- 相機點雲輸入 -->
+    <remap from="scan" to="/depth_scan"/>  <!-- 轉換後的雷射輸出 -->
+  </node>
+</launch>

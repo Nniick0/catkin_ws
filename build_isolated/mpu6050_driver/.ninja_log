@@ -1,0 +1,15 @@
+# ninja log v5
+1	1162	1729157221	CMakeFiles/mpu6050_node_lib.dir/src/mpu6050.cpp.o	14f81ae5f0100350
+2	5133	1729157225	CMakeFiles/mpu6050_node.dir/src/main.cpp.o	ea3fdb2a7f485de6
+1	5973	1729157226	CMakeFiles/mpu6050_node_lib.dir/src/mpu6050_node.cpp.o	53eef718c3a134e3
+5973	6169	1729157226	/home/sudo_car/catkin_ws/devel_isolated/mpu6050_driver/lib/libmpu6050_node_lib.so	95d125784752c27d
+6169	6478	1729157226	/home/sudo_car/catkin_ws/devel_isolated/mpu6050_driver/lib/mpu6050_driver/mpu6050_node	3f12412ba2494bb
+5	7445	1729157227	CMakeFiles/mpu6050_calibration_node.dir/src/main_calibration.cpp.o	2d4194b4a1283b9
+1163	10642	1729157230	CMakeFiles/mpu6050_calibration_node.dir/src/mpu6050_calibration_node.cpp.o	b3e0fee589ddedc2
+10642	10971	1729157231	/home/sudo_car/catkin_ws/devel_isolated/mpu6050_driver/lib/mpu6050_driver/mpu6050_calibration_node	fa9a4dddf845a139
+7	50	0	CMakeFiles/install.util	d2825595c2653434
+8	46	0	CMakeFiles/install.util	d2825595c2653434
+9	54	0	CMakeFiles/install.util	d2825595c2653434
+8	49	0	CMakeFiles/install.util	d2825595c2653434
+11	87	0	CMakeFiles/install.util	d2825595c2653434
+8	64	0	CMakeFiles/install.util	d2825595c2653434
